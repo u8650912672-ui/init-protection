@@ -13,3 +13,11 @@ echo $?
 [root@server f]#
 there fore it works?
 just run make in the folder and it will work wounders :3 have fun with your rootkit init protection (you are allowed to fork this but please dont make actual malware out of this)
+how to use 
+unzip
+cd into directory
+run make
+if error go here and make a request
+if no error 
+insmod init-p.ko protected_pid=1
+booom
